@@ -27,7 +27,7 @@ This configuration is for
 
 ### COPYRIGHT AND LICENCE
 
-Copyright (C) 2024 by http://vroncevic.github.io/nano_rc
+Copyright (C) 2024 by http://vroncevic.github.io/nanorc
 
 This configuration is free; you can redistribute it and/or modify
 it under the same terms as nano itself, either nano version 7.2.
