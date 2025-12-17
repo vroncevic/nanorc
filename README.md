@@ -9,8 +9,8 @@ other information that should be provided before the configuration is installed.
 To install this rc file type the following
 
 ```bash
-cp nanorc   /home/${USER}/.nanorc
-cp nanorc   /root/.nanorc
+cp nanorc /home/${USER}/.nanorc
+sudo cp nanorc /root/.nanorc
 ```
 
 ### DEPENDENCIES
@@ -27,7 +27,7 @@ This configuration is for
 
 ### COPYRIGHT AND LICENCE
 
-Copyright (C) 2024 by http://vroncevic.github.io/nanorc
+Copyright (C) 2026 by http://vroncevic.github.io/nanorc
 
 This configuration is free; you can redistribute it and/or modify
 it under the same terms as nano itself, either nano version 7.2.
