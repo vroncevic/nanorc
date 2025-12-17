@@ -12,8 +12,8 @@ To install this rc file type the following
 
 .. code-block:: bash
 
-  cp nanorc   /home/${USER}/.nanorc
-  cp nanorc   /root/.nanorc
+  cp nanorc /home/${USER}/.nanorc
+  sudo cp nanorc /root/.nanorc
 
 DEPENDENCIES
 -------------
@@ -32,7 +32,7 @@ This configuration is for
 COPYRIGHT AND LICENCE
 ----------------------
 
-Copyright (C) 2024 by `vroncevic.github.io/nanorc <https://vroncevic.github.io/nanorc>`_
+Copyright (C) 2026 by `vroncevic.github.io/nanorc <https://vroncevic.github.io/nanorc>`_
 
 This configuration is free; you can redistribute it and/or modify
 it under the same terms as nano itself, either nano version 7.2.
